@@ -16,7 +16,7 @@
 		{
 			"name": "Home",
 			"type": "url",
-			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
+			"icon": "https://blendforge.apps.gen.tr/assets/home.png",
 			"url": "https://app.com.tc/mods/category/anime-karaoke/",
 			"url_dark": "https://app.com.tc/mods/category/anime-karaoke/"
 		},
