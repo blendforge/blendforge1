@@ -16,14 +16,14 @@
 		{
 			"name": "Home",
 			"type": "url",
-			"icon": "https://blendforge.apps.gen.tr/assets/home.png",
+			"icon": "https://blendforge.apps.gen.tr/assets/home2.png",
 			"url": "https://app.com.tc/mods/category/anime-karaoke/",
 			"url_dark": "https://app.com.tc/mods/category/anime-karaoke/"
 		},
 		{
 			"name": "Privacy Policy",
 			"type": "assets",
-			"icon": "https://blendforge.apps.gen.tr/assets/home2.png",
+			"icon": "https://blendforge.apps.gen.tr/assets/home.png",
 			"url": "privacy_policy.html",
 			"url_dark": "privacy_policy_dark.html"
 		}
