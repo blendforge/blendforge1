@@ -21,6 +21,13 @@
 			"url_dark": "https://app.com.tc/mods/anime-karaoke-posts/"
 		},
 		{
+			"name": "Request Song",
+			"type": "url",
+			"icon": "https://blendforge.apps.gen.tr/assets/request.png",
+			"url": "https://app.com.tc/mods/request-contact/",
+			"url_dark": "https://app.com.tc/mods/request-contact/"
+		},
+		{
 			"name": "Privacy Policy",
 			"type": "assets",
 			"icon": "https://blendforge.apps.gen.tr/assets/privacy_bf.png",
