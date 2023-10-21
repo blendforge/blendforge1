@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Home",
+			"name": "Anime Songs",
 			"type": "url",
 			"icon": "https://blendforge.apps.gen.tr/assets/home_bf.png",
 			"url": "https://app.com.tc/mods/anime-karaoke-posts/",
