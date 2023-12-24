@@ -17,8 +17,8 @@
 			"name": "Home",
 			"type": "url",
 			"icon": "https://blendforge.apps.gen.tr/roblox/brookhavenrbx/assets/home.png",
-			"url": "https://app.com.tc/mods/brookhavenrbx/",
-			"url_dark": "https://app.com.tc/mods/brookhavenrbx/"
+			"url": "http://app.com.tc/mods/brookhavenrbx/",
+			"url_dark": "http://app.com.tc/mods/brookhavenrbx/"
 		},
 		{
 			"name": "Privacy Policy",
