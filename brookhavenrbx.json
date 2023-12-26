@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Home",
+			"name": "Mods",
 			"type": "url",
 			"icon": "https://blendforge.apps.gen.tr/roblox/brookhavenrbx/assets/home.png",
 			"url": "http://app.com.tc/mods/brookhavenrbx/",
